@@ -7,29 +7,27 @@
 2) методами (добавление нового товара в корзину, удаление товара из корзины, подсчет общей суммы стоимости товаров).
 ```
 
+### Для запуска
 
-## Project setup
+## Настройка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компилирует и выполняет горячую перезагрузку для разработки.
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилирует и минифицирует для производства
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Линты и исправления файлов
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Скриншот работы
 ![{38D159C9-AB15-45E3-B2A7-8CECFE0F3972}](https://github.com/user-attachments/assets/63822634-8340-43bb-81a3-9a22e52e306a)
