@@ -1,4 +1,4 @@
-# func-buy-basket
+# Функционал корзины интернет магазина на VueJS
 
 ## Project setup
 ```
